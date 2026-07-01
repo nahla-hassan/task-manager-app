@@ -1,0 +1,5 @@
+from django.contrib import admin
+from .models import Task
+
+# Register your models here.
+# "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzgyODA0MzU1LCJpYXQiOjE3ODI4MDA3NTUsImp0aSI6ImYwMTU0NTc2NmZmMTRmMDZiMmY5MGRjMmRhOTQ0MmNhIiwidXNlcl9pZCI6IjIifQ.8KA1kOQ23iyXskOaE__6_dsX4qqMPhcaWGttxIGcUAY"
